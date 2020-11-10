@@ -1,0 +1,90 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	background-color:  black;
+	overflow-x: hidden;
+	background-size: 100%;
+}
+.intro h2 {
+	margin-left: 400px;
+	color: #FFFFFF;
+	width: 700px;
+}
+.first h2 {
+	margin-left: 20px;
+	color: #FFFFFF;
+	width: 350px;
+}
+.first img {
+	display: block;
+	height: 600px;
+	width: 450px;
+	position: absolute;
+	margin-left: 450px;
+}
+
+.second h2 {
+	margin-left: 1000px;
+	color: #FFFFFF;
+	width: 350px;
+	margin-top: 700px;
+}
+.second img {
+	display: block;
+	height: 600px;
+	width: 570px;
+	position: absolute;
+	margin-left: 385px;
+}
+
+.third h2 {
+	margin-left: 20px;
+	color: #FFFFFF;
+	width: 350px;
+	margin-top: 650px;
+}
+.third img {
+	display: block;
+	height: 600px;
+	width: 550px;
+	position: absolute;
+	margin-left: 390px;
+
+}
+
+.four h2 {
+	margin-left: 1000px;
+	color: #FFFFFF;
+	width: 350px;
+	margin-top: 700px;
+}
+.four img {
+	display: block;
+	height: 600px;
+	width: 450px;
+	position: absolute;
+	margin-left: 450px;
+
+}
+
+.five h2 {
+	margin-left: 20px;
+	color: #FFFFFF;
+	width: 350px;
+	margin-top: 680px;
+}
+.five img {
+	display: block;
+	height: 600px;
+	width: 550px;
+	position: absolute;
+	margin-left: 410px;
+
+}
+.final h2 {
+	margin-left: 420px;
+	color: #FFFFFF;
+	width: 600px;
+	margin-top: 680px;
+}
